@@ -17,4 +17,4 @@ echo "Free ROOT partition size is $ROOTFREE"
 echo "################################################"
 
 
-####end of script
+##end of script

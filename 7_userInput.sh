@@ -12,4 +12,4 @@ echo
 
 echo "Login Successfull: Welcome USER $usr"
 
-####end of script
+#end of script

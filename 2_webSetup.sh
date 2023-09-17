@@ -48,5 +48,5 @@ echo "###############################################"
 sudo systemctl status httpd
 
 ls /var/www/html
-####end of script
+
 

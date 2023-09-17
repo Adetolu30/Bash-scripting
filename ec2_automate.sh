@@ -2,4 +2,4 @@
 
 echo "automating ec2"
 
-####end of script
+##end of script
