@@ -8,3 +8,5 @@ then
 else
 	echo "$NUM is lesser"
 fi
+
+####end of script

@@ -11,3 +11,5 @@ read -sp 'Password: ' Pass
 echo
 
 echo "Login Successfull: Welcome USER $usr"
+
+####end of script

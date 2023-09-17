@@ -15,3 +15,6 @@ echo "Current Load Average $LOAD"
 echo "################################################"
 echo "Free ROOT partition size is $ROOTFREE"
 echo "################################################"
+
+
+####end of script
